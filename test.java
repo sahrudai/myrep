@@ -4,4 +4,8 @@ public class test
   {
     System.out.println("hello");
   }
+  public static void meth1()
+  {
+      System.out.println("in method");
+  }
 }
